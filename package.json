@@ -23,7 +23,7 @@
 		"electron": "^26.6.10",
 		"esbuild": "0.14.47",
 		"eslint": "^8.57.0",
-		"globals": "^15.0.0",
+		"globals": "^15.15.0",
 		"obsidian": "^1.4.11",
 		"obsidian-dataview": "^0.5.64",
 		"tslib": "2.4.0",
