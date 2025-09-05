@@ -1,4 +1,4 @@
-FROM node:16-alpine AS plugin
+FROM node:16.20.2-alpine AS plugin
 
 # copy the assets and source code
 WORKDIR /app
