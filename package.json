@@ -31,7 +31,7 @@
 		"typescript-eslint": "^7.7.0"
 	},
 	"dependencies": {
-		"file-type": "^19.0.0",
+		"file-type": "^19.6.0",
 		"html-minifier-terser": "^7.2.0",
 		"mime": "^3.0.0",
 		"minisearch": "^7.1.0",
