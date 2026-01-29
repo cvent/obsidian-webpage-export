@@ -25,7 +25,7 @@
 		"eslint": "^8.57.0",
 		"globals": "^15.0.0",
 		"obsidian": "^1.4.11",
-		"obsidian-dataview": "^0.5.64",
+		"obsidian-dataview": "^0.5.68",
 		"tslib": "2.4.0",
 		"typescript": "4.7.4",
 		"typescript-eslint": "^7.7.0"
