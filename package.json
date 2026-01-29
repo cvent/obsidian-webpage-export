@@ -14,7 +14,7 @@
 	"devDependencies": {
 		"@eslint/js": "^9.1.1",
 		"@types/mime": "^3.0.4",
-		"@types/node": "^16.11.6",
+		"@types/node": "^16.18.126",
 		"@types/postcss-safe-parser": "^5.0.4",
 		"@types/rss": "^0.0.32",
 		"@typescript-eslint/eslint-plugin": "5.29.0",
